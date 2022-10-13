@@ -51,10 +51,6 @@ Average results for all inquiries of MC:
 
 ![results](https://user-images.githubusercontent.com/34692520/195699302-2f6bcb82-4684-4db7-acdd-548c9f6ab9e6.png)
 
-Ablation study using the Edresson/wav2vec2-large-xlsr-coraa-portuguese model:
-
-![ablation](https://user-images.githubusercontent.com/34692520/195092061-41a74172-dc05-4927-b7f3-9b0c1b686a53.png)
-
 __Note:__ The phonetic transcription is preliminary and might not be accurate, specially its alignments.
 
 ## Citation
