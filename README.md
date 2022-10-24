@@ -6,7 +6,7 @@ The purpose of this repository is to provide resources for NURC/SP analysis and 
 
 ## Research
 
-We evaluated the a Minimum Corpus (MC) with 21 inquiries of the NURC/SP in the [Bringing NURC/SP to Digital Life: the Role of Open-source Automatic Speech Recognition Model](https://arxiv.org/) paper. For further details, see the [cm_analysis](https://github.com/nilc-nlp/nurc-sp/tree/master/cm_analysis/) directory.
+We evaluated the a Minimum Corpus (MC) with 21 inquiries of the NURC/SP in the [Bringing NURC/SP to Digital Life: the Role of Open-source Automatic Speech Recognition Model]([https://arxiv.org/](https://arxiv.org/abs/2210.07852)) paper. For further details, see the [cm_analysis](https://github.com/nilc-nlp/nurc-sp/tree/master/cm_analysis/) directory.
 
 ## NURC/SP Minimum Corpus (MC)
 
