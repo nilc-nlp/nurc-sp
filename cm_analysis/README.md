@@ -53,4 +53,13 @@ Average results for all inquiries of MC:
 
 ## Citation
 
-_coming soon_
+```
+@misc{https://doi.org/10.48550/arxiv.2210.07852,
+  doi = {10.48550/ARXIV.2210.07852},
+  url = {https://arxiv.org/abs/2210.07852},
+  author = {Gris, Lucas Rafael Stefanel and Junior, Arnaldo Candido and Santos, Vinícius G. dos and Dias, Bruno A. Papa and Leite, Marli Quadros and Svartman, Flaviane Romani Fernandes and Aluísio, Sandra},
+  title = {Bringing NURC/SP to Digital Life: the Role of Open-source Automatic Speech Recognition Models},
+  publisher = {arXiv},
+  year = {2022}
+}
+```
