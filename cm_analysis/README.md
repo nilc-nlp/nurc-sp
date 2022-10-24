@@ -1,6 +1,6 @@
 # Bringing NURC/SP to Digital Life: the Role of Open-source Automatic Speech Recognition Model
 
-Paper: [_coming soon_!]()
+Paper: [https://arxiv.org/abs/2210.07852](https://arxiv.org/abs/2210.07852)
 
 ## Abstract
 
